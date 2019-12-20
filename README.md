@@ -1,2 +1,2 @@
-# RaiLs APplication FoR SWifT
+# RaiLs APi FoR SWifT
 rlapfrswt is application of authenticate with token.
